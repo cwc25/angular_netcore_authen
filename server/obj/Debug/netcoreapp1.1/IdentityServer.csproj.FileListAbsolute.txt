@@ -1,0 +1,20 @@
+/Users/amilkumarasinghe/workspace/angularimplicit/server/bin/Debug/netcoreapp1.1/IdentityServer.deps.json
+/Users/amilkumarasinghe/workspace/angularimplicit/server/bin/Debug/netcoreapp1.1/IdentityServer.runtimeconfig.json
+/Users/amilkumarasinghe/workspace/angularimplicit/server/bin/Debug/netcoreapp1.1/IdentityServer.runtimeconfig.dev.json
+/Users/amilkumarasinghe/workspace/angularimplicit/server/bin/Debug/netcoreapp1.1/IdentityServer.dll
+/Users/amilkumarasinghe/workspace/angularimplicit/server/bin/Debug/netcoreapp1.1/IdentityServer.pdb
+/Users/amilkumarasinghe/workspace/angularimplicit/server/obj/Debug/netcoreapp1.1/IdentityServer.AssemblyInfo.cs
+/Users/amilkumarasinghe/workspace/angularimplicit/server/obj/Debug/netcoreapp1.1/IdentityServer.dll
+/Users/amilkumarasinghe/workspace/angularimplicit/server/obj/Debug/netcoreapp1.1/IdentityServer.pdb
+/Users/amilkumarasinghe/workspace/angularimplicit/server/obj/Debug/netcoreapp1.1/IdentityServer.csproj.CoreCompileInputs.cache
+/Users/amilkumarasinghe/workspace/angularimplicit/server/obj/Debug/netcoreapp1.1/IdentityServer.AssemblyInfoInputs.cache
+C:\source code\angularimplicit-master\angularimplicit-master\server\bin\Debug\netcoreapp1.1\IdentityServer.deps.json
+C:\source code\angularimplicit-master\angularimplicit-master\server\bin\Debug\netcoreapp1.1\IdentityServer.runtimeconfig.json
+C:\source code\angularimplicit-master\angularimplicit-master\server\bin\Debug\netcoreapp1.1\IdentityServer.runtimeconfig.dev.json
+C:\source code\angularimplicit-master\angularimplicit-master\server\bin\Debug\netcoreapp1.1\IdentityServer.dll
+C:\source code\angularimplicit-master\angularimplicit-master\server\bin\Debug\netcoreapp1.1\IdentityServer.pdb
+C:\source code\angularimplicit-master\angularimplicit-master\server\obj\Debug\netcoreapp1.1\IdentityServer.csproj.CoreCompileInputs.cache
+C:\source code\angularimplicit-master\angularimplicit-master\server\obj\Debug\netcoreapp1.1\IdentityServer.AssemblyInfoInputs.cache
+C:\source code\angularimplicit-master\angularimplicit-master\server\obj\Debug\netcoreapp1.1\IdentityServer.AssemblyInfo.cs
+C:\source code\angularimplicit-master\angularimplicit-master\server\obj\Debug\netcoreapp1.1\IdentityServer.dll
+C:\source code\angularimplicit-master\angularimplicit-master\server\obj\Debug\netcoreapp1.1\IdentityServer.pdb
